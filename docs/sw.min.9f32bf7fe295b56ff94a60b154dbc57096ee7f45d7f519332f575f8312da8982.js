@@ -1,0 +1,1 @@
+if(navigator.serviceWorker){navigator.serviceWorker.register("/sql-micro/sw.js",{scope:"/sql-micro/"});}
